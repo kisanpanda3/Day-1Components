@@ -1,0 +1,33 @@
+1. What is React ?
+
+Ans - React js is a javascript framework and a open source
+library developed by facebook . it is used to building interactive
+User interface / web sites and apps quickly and efficiently.
+
+2. What is JSX in React?
+
+Ans- JSX stands for Javascript XML . it allows us to write
+HTML inside React. JSX makes easy to write HTML in React.
+
+JSX ----->  BABEL -----> REACT
+
+3. What is React Component ?
+
+Ans - React Components let you break up the user interface
+into separate pieces of code that can be reusable and handle
+independently.
+
+----> A component represents a UI and returning a
+react element for you.
+
+There are 2 types of Components
+------------------------------------
+1 - Class based Component
+2 - Function based Component(Trending in Market)
+
+4. What is Props in React?
+
+Ans - In React js props are a type of object where the value of
+attributes of a tag is stored .Props means Properties.
+
+5. 
